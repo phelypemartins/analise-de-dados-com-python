@@ -23,7 +23,7 @@ Pelo gráfico gerado na análise, o público feminino comprou mais do que o masc
 
 ### 3. Qual o cenário das transações em 2020, de acordo com as análises?
 
-De acordo com as análises anteriores, em 2020 teve queda nas transações de cartões de crédito. Ou seja, as pessoas usaram menos os cartões de crédito, isso pode significar que as pessoas pagaram pelas suas compras no dinheiro ou compraram pouco.
+De acordo com as análises anteriores, em 2020 teve queda nas transações de cartões de crédito. Ou seja, as pessoas usaram menos os cartões de crédito, isso pode significar que as pessoas pagaram pelas suas compras no dinheiro ou compraram pouco. Nesse sentido houve uma queda 60% nos valores de transações.
 
 ![cap1](https://github.com/user-attachments/assets/baaa1833-76ac-4db0-84e5-b6feb08df1ce)
 
