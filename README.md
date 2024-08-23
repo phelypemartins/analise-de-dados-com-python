@@ -28,3 +28,5 @@ De acordo com as análises anteriores, em 2020 teve queda nas transações de ca
 ![cap1](https://github.com/user-attachments/assets/baaa1833-76ac-4db0-84e5-b6feb08df1ce)
 
 ![cap2](https://github.com/user-attachments/assets/816fea82-fc3d-4f3f-b79e-33f81c022f61)
+
+![cap2](https://github.com/user-attachments/assets/9201a68f-3536-48c8-aae5-ccc48af61950)
